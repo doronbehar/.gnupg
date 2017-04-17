@@ -1,0 +1,5 @@
+private-keys-v1.d/*
+openpgp-revocs.d/*
+*.kbx*
+trustdb.gpg
+random_seed
